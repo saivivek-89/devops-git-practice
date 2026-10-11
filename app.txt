@@ -1,5 +1,1 @@
-payment-api
-API version 1
-Payment API deployed
-Payment API health check enabled
-Payment logging enabled
+Payment API stable
