@@ -1,1 +1,1 @@
-Payment API stable
+Payment API v3
